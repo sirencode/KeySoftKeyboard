@@ -52,11 +52,6 @@
             android:scaleType="fitXY"
             android:src="@drawable/no_pass_bg" />
     </LinearLayout>
-    <EditText
-        android:background="@android:color/transparent"
-        android:id="@+id/item_edittext"
-        android:layout_height="50dp"
-        android:layout_width="match_parent" />
 
     <diablo.softkeyboard.com.MyNumKeyBoard
         android:background="#b0b0b0"
